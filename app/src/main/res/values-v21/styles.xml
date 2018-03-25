@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Night_Theme" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/Haiti</item>
+        <item name="colorPrimaryDark">@color/Haiti</item>
+        <item name="colorAccent">@color/Caribbean_Green</item>
+        <item name="android:windowBackground">@color/Nobel</item>
+        <item name="android:textColor">@color/White</item>
+
+        // change header color
+        <item name="android:textColorSecondary">@color/White</item>
+        <item name="android:textColorPrimary">@color/White</item>
+        // change separator color
+        <item name="android:listDivider">@color/White</item>
+        <item name="android:datePickerDialogTheme">@style/datepicker</item>
+        <item name="android:timePickerDialogTheme">@style/datepicker</item>
+        <item name="android:focusedMonthDateColor">@color/White</item>
+        <item name="android:unfocusedMonthDateColor">@color/White</item>
+    </style>
+</resources>

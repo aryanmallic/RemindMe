@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8B87C9</color>
+    <color name="colorPrimaryDark">#8B87C9</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="White">#FFFEFE</color>
+    <color name="Solitude">#E3E6EC</color>
+    <color name="Dark_Turquoise">#00C8D3</color>
+    <color name="Moody_Blue">#8B87C9</color>
+    <color name="Selago">#FFFEFF</color>
+    <color name="Alluminium">#8A8C8D</color>
+    <color name="Sweet_Pink">#FC8F8F</color>
+    <color name="Green_Vogue">#0F3D4B</color>
+    <color name="Half_Baked">#5E9390</color>
+    <color name="Caribbean_Green">#0DCEB3</color>
+    
+    <color name="Haiti">#302D39</color>
+    <color name="Nobel">#4B4B4B</color>
+
+
+    <array name="color1">
+        <item>@color/Moody_Blue</item>
+        <item>@color/Dark_Turquoise</item>
+        <item>@color/Haiti</item>
+    </array>
+
+    <array name="color2">
+        <item>@color/colorAccent</item>
+        <item>@color/Sweet_Pink</item>
+        <item>@color/Caribbean_Green</item>
+    </array>
+
+    <array name="color3">
+        <item>@color/Alluminium</item>
+        <item>@color/Alluminium</item>
+        <item>@color/White</item>
+    </array>
+
+</resources>

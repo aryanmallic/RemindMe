@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/Alluminium</item>
+        <item name="android:windowBackground">@color/Solitude</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Purple_Theme" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/Alluminium</item>
+        <item name="android:windowBackground">@color/Solitude</item>
+    </style>
+
+    <style name="Blue_Theme" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/Dark_Turquoise</item>
+        <item name="colorPrimaryDark">@color/Dark_Turquoise</item>
+        <item name="colorAccent">@color/Sweet_Pink</item>
+        <item name="android:textColor">@color/Alluminium</item>
+        <item name="android:windowBackground">@color/Solitude</item>
+    </style>
+
+    <style name="Night_Theme" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">@color/Haiti</item>
+        <item name="colorPrimaryDark">@color/Haiti</item>
+        <item name="colorAccent">@color/Caribbean_Green</item>
+        <item name="android:windowBackground">@color/Nobel</item>
+        <item name="android:textColor">@color/White</item>
+
+        // change header color
+        <item name="android:textColorSecondary">@color/White</item>
+        <item name="android:textColorPrimary">@color/White</item>
+        // change separator color
+        <item name="android:listDivider">@color/White</item>
+
+    </style>
+
+    <style name="datepicker" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/Caribbean_Green</item>
+        <item name="android:windowBackground">@color/Haiti</item>
+        <item name="android:textColorSecondary">@color/White</item>
+        <item name="android:textColorPrimary">@color/Alluminium</item>
+    </style>
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
