@@ -65,6 +65,7 @@ public class Category_Adap extends RecyclerView.Adapter<Category_Adap.MyViewHold
         }else{
             holder.category_val.setText(catdata.getCategory_val());
         }*/
+      ///
     }
     @Override
     public int getItemCount() {
